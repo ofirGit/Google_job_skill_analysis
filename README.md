@@ -15,24 +15,23 @@
 # Data Analysis
 First I use pandas to read the CSV file. After that we perform Data Cleaning such as removing unwanted data,removing stop words, changing upper case, etc.
 I checked what are the most popular positions:
-![GitHub Logo](/images/logo.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart1.png)
 
 What is the most popular degree for student:
-I found that is 'Bechalor'
-
-![GitHub Logo](/images/logo.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart2.png)
+I found that is 'Bachelor'
 
 Where are hiring for an intership?
-![GitHub Logo](/images/logo.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart8.png)
 
 The I found that the minimum degree for those is 'graduation' not 'bachelor'
-![GitHub Logo](/images/logo.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart3.png)
 
 so I found that the market departments are looking for 'Bachelor' and finance depratments are looking for 'gradiuation'.
 
-
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart3.png) , ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart.png)
 What are the skills for those positions?
-![GitHub Logo](/images/logo.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart5.png),![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart6.png)
 
 I did the same levels for Data Analyst position 
-![GitHub Logo](/images/logo.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart.png),![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart2.png)
