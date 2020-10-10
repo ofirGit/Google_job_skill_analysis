@@ -16,11 +16,11 @@
 First I use pandas to read the CSV file. After that we perform Data Cleaning such as removing unwanted data,removing stop words, changing upper case, etc.
 I checked what are the most popular positions:
 
-Business Intern 2018                                              35
-MBA Intern, Summer 2018                                           34
-MBA Intern 2018                                                   28
-BOLD Intern, Summer 2018                                          21
-Field Sales Representative, Google Cloud                          17
++ Business Intern 2018                                              35
++ MBA Intern, Summer 2018                                           34
++ MBA Intern 2018                                                   28
++ BOLD Intern, Summer 2018                                          21
++ Field Sales Representative, Google Cloud                          17
  
 
 What is the most popular degree for student:
