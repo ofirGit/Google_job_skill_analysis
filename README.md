@@ -41,7 +41,7 @@ I found that is 'Bachelor'
 
 ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart3.png)
 
-### I found that the market departments are looking for 'Bachelor' and finance depratments are looking for 'gradiuation'.
+### I found that the Marketing & Communications department is looking for 'Bachelor' and 'Gradiuation' equal. Finance depratment is looking for 'Gradiuation' degree more than 'Bachelor' degree.
 
 ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart4.png) ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart.png)
 
@@ -60,4 +60,4 @@ I found that is 'Bachelor'
 - The skills are: problem solving, business judgment, analytical skills. 
 
 ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/DChart.png) ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart2.png)
-![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/chart4.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart7.png)
