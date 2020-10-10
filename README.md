@@ -12,7 +12,7 @@
 - I used kaggle dataset 
 
 # Data Analysis
-First I use pandas to read the CSV file. After that we perform Data Cleaning such as removing unwanted data,removing stop words, changing upper case, etc.
+First I use pandas to read the CSV file. After that I perform Data Cleaning such as removing unwanted data,removing stop words, changing upper case, etc.
 
 ### what are the most popular positions:
 
