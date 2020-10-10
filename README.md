@@ -29,9 +29,9 @@ The I found that the minimum degree for those is 'graduation' not 'bachelor'
 
 so I found that the market departments are looking for 'Bachelor' and finance depratments are looking for 'gradiuation'.
 
-![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart3.png) , ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart3.png) | ![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart.png)
 What are the skills for those positions?
-![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart5.png),![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart6.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart5.png)|![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Chart6.png)
 
 I did the same levels for Data Analyst position 
-![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart.png),![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart2.png)
+![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart.png)|![](https://github.com/ofirGit/Google_job_skill_analysis/blob/main/Charts/Dchart2.png)
